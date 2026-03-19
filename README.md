@@ -1,19 +1,20 @@
-# Analysis of Polycystic Ovary Syndrome using Deep Learning and Machine Learning Techniques
+# Analysis of Polycystic Ovarian Syndrome using Deep Learning and Machine Learning Techniques
 
 ## Overview
-This research project focuses on the early detection and diagnosis of Polycystic Ovary Syndrome (PCOS), a complex endocrine disorder, using advanced computational models. The study compares the performance of various deep learning architectures in processing ultrasound images and clinical data.
+Polycystic Ovary Syndrome (PCOS) is a complex endocrine disorder affecting women aged 12 to 45. This project focuses on the comparative analysis of various Deep Learning models to improve diagnostic accuracy through automated follicle detection in ultrasound images.
 
-## Key Highlights
-- **Comparative Analysis:** Evaluated the effectiveness of Sparse models, Boltzmann models, and Convolutional Neural Networks (CNN) for medical image classification.
-- **Deep Learning Focus:** Utilized CNNs to recognize intricate patterns in clinical data, leading to more accurate predictions than traditional methods.
-- **Publication:** Findings were presented at the **ICASSCT Conference** in Goa.
+## Technical Methodology
+The project explores and compares three major predefined models in Deep Learning for image classification:
+- **Convolutional Neural Networks (CNN):** Used for recognizing intricate patterns in medical imagery.
+- **Sparse Models:** Employed for processing data with a small number of significant features.
+- **Boltzmann Machines:** Utilized for analyzing clinical and biochemical parameters.
 
-## Technologies Used
-- Python
-- Deep Learning (CNN, Sparse Models, Boltzmann Machines)
-- Image Processing
-- Machine Learning Algorithms
 
-## Publication Details
-- **Presented at:** International Conference on Advanced Soft Computing and Communication Technologies (ICASSCT).
-- **Institution:** Kongu Engineering College, Erode.
+
+## Key Outcomes
+- Successfully demonstrated how Deep Learning enables computers to process medical data without explicit programming.
+- Improved the precision of identifying follicles in ultrasound images compared to traditional methods.
+- **Publication:** This research was presented at the **ICASSCT Conference held in Goa**.
+
+## Author
+- **ARPUTHAMARY A** - Department of Computer Technology, Kongu Engineering College.
